@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "SAnZGOhrKH+b1Voqahmjw+kQfzoKLVuXx4g6y8705jgW4LiQ0SPvWrKIxmhSOSOsJLAf8kpSzLuZ5f3YZAfjCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Serhi\\Desktop\\Git\\CCTV1\\CCTV1\\CCTV1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Serhi\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Serhi\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Serhi\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Serhi\\.nuget\\packages\\videolan.libvlc.windows\\3.0.12\\videolan.libvlc.windows.3.0.12.nupkg.sha512",
+    "C:\\Users\\Serhi\\.nuget\\packages\\vlc.dotnet.core\\3.1.0\\vlc.dotnet.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\Serhi\\.nuget\\packages\\vlc.dotnet.core.interops\\3.1.0\\vlc.dotnet.core.interops.3.1.0.nupkg.sha512",
+    "C:\\Users\\Serhi\\.nuget\\packages\\vlc.dotnet.wpf\\3.1.0\\vlc.dotnet.wpf.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
